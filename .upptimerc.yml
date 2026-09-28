@@ -15,4 +15,4 @@ status-website:
   introMessage: Availability and incident history for Certivo GovCloud. Checks run approximately every five minutes.
   navbar:
     - title: Status
-      href: /
+      href: /status-gov-cloud/
